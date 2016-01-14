@@ -12,3 +12,6 @@ This wouldn't exist without his hard work.
 Converting OSI Grid References to GPS was a snap thanks to the API at http://batlab.ucd.ie/gridref/
 ** Your Name Here?
 If you have an area to add or a correction to make, add an [[https://github.com/CarlQLange/boulderingareas/issues][Issue]] or [[https://github.com/CarlQLange/boulderingareas/pulls][Pull Request]] and I'll add you to this list :)
+** Fixes
+*** Alan Rice (@alanrice) (@alanmrice on Twitter)
+For noticing that Glendasan shouldn't be in Louth
