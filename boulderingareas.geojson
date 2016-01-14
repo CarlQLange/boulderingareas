@@ -1,0 +1,1211 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.274746,
+                    54.061174
+                ]
+            },
+            "properties": {
+                "Area Name": "Windy Gap",
+                "Number of Problems": "40",
+                "Type of Rock": "Gabbro",
+                "Aspect": "Hillside",
+                "County": "Louth",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.22797497607,
+                    54.0531641213
+                ]
+            },
+            "properties": {
+                "Area Name": "White Bog",
+                "Number of Problems": "19",
+                "Type of Rock": "Gabbro",
+                "Aspect": "Hillside",
+                "County": "Louth",
+                "OS Map Coordinates": "J 160 129"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.09937274729,
+                    53.4895819852
+                ]
+            },
+            "properties": {
+                "Area Name": "Portrane",
+                "Number of Problems": "66",
+                "Type of Rock": "Limestone",
+                "Aspect": "Coastal - tidal",
+                "County": "Dublin",
+                "OS Map Coordinates": "O 261 504"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.08395556942,
+                    53.3635264884
+                ]
+            },
+            "properties": {
+                "Area Name": "Ayton's Cave",
+                "Number of Problems": "15",
+                "Type of Rock": "Limestone",
+                "Aspect": "Coastal - tidal",
+                "County": "Dublin",
+                "OS Map Coordinates": "O 275 364"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.10543537038,
+                    53.2856870648
+                ]
+            },
+            "properties": {
+                "Area Name": "Bullock Harbour",
+                "Number of Problems": "40",
+                "Type of Rock": "Granite",
+                "Aspect": "Coastal - tidal",
+                "County": "Dublin",
+                "OS Map Coordinates": "O 263 277"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.107337,
+                    53.271272
+                ]
+            },
+            "properties": {
+                "Area Name": "Dalkey Quarry",
+                "Number of Problems": "11",
+                "Type of Rock": "Granite",
+                "Aspect": "Sheltered quarry",
+                "County": "Dublin",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.23751605131,
+                    53.2463752642
+                ]
+            },
+            "properties": {
+                "Area Name": "Three Rock",
+                "Number of Problems": "15",
+                "Type of Rock": "Granite",
+                "Aspect": "Mountain top",
+                "County": "Dublin",
+                "OS Map Coordinates": "O 176 231"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.18026679398,
+                    53.2185554382
+                ]
+            },
+            "properties": {
+                "Area Name": "The Scalp",
+                "Number of Problems": "31",
+                "Type of Rock": "Granite",
+                "Aspect": "Wooded ",
+                "County": "Dublin",
+                "OS Map Coordinates": "O 215 201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.25723481832,
+                    53.2035304892
+                ]
+            },
+            "properties": {
+                "Area Name": "Knocknagun",
+                "Number of Problems": "5",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": "O 164 183"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.29712301467,
+                    53.1789453967
+                ]
+            },
+            "properties": {
+                "Area Name": "Lough Bray",
+                "Number of Problems": "14",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": "O 138 155"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.272819,
+                    53.1753
+                ]
+            },
+            "properties": {
+                "Area Name": "Stonecutter's Glen",
+                "Number of Problems": "23",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.27401541168,
+                    53.1210992889
+                ]
+            },
+            "properties": {
+                "Area Name": "Cloghoge",
+                "Number of Problems": "27",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": "O 155 091"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.29654993218,
+                    53.0800858977
+                ]
+            },
+            "properties": {
+                "Area Name": "Lough Dan",
+                "Number of Problems": "34",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": "O 141 045"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.272093,
+                    53.107414
+                ]
+            },
+            "properties": {
+                "Area Name": "Lough Tay",
+                "Number of Problems": "few",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.35532302953,
+                    53.1042775778
+                ]
+            },
+            "properties": {
+                "Area Name": "Gullyblock",
+                "Number of Problems": "5",
+                "Type of Rock": "Granite",
+                "Aspect": "Forest",
+                "County": "Wicklow",
+                "OS Map Coordinates": "O 101 071"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.35597372525,
+                    53.0872123067
+                ]
+            },
+            "properties": {
+                "Area Name": "Carrigshouk",
+                "Number of Problems": "29",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": "O 101 052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.35208144304,
+                    53.0718814516
+                ]
+            },
+            "properties": {
+                "Area Name": "Glenmacnass",
+                "Number of Problems": "73",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": "O 104 035"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.31173050812,
+                    53.035369449
+                ]
+            },
+            "properties": {
+                "Area Name": "Mall Hill",
+                "Number of Problems": "48",
+                "Type of Rock": "Granite",
+                "Aspect": "Forest",
+                "County": "Wicklow",
+                "OS Map Coordinates": "T 132 995"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.33797497517,
+                    53.9370282599
+                ]
+            },
+            "properties": {
+                "Area Name": "Glendasan",
+                "Number of Problems": "52",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": "O 091 998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.398045,
+                    53.034563
+                ]
+            },
+            "properties": {
+                "Area Name": "Lough Nahanagan",
+                "Number of Problems": "30",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside\/Forest",
+                "County": "Wicklow",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.309731,
+                    53.00797
+                ]
+            },
+            "properties": {
+                "Area Name": "Annalecka",
+                "Number of Problems": "19",
+                "Type of Rock": "Granite",
+                "Aspect": "Forest",
+                "County": "Wicklow",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.43531046332,
+                    53.0397553607
+                ]
+            },
+            "properties": {
+                "Area Name": "King's River",
+                "Number of Problems": "15",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": "T 049 998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.380839,
+                    53.00645
+                ]
+            },
+            "properties": {
+                "Area Name": "Glendalough",
+                "Number of Problems": "155",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.38847658063,
+                    52.9762242844
+                ]
+            },
+            "properties": {
+                "Area Name": "Glenmalure",
+                "Number of Problems": "22",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Wicklow",
+                "OS Map Coordinates": "T 082 928"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -7.150926,
+                    52.159144
+                ]
+            },
+            "properties": {
+                "Area Name": "Tramore",
+                "Number of Problems": "9",
+                "Type of Rock": "Limestone",
+                "Aspect": "Coastal - tidal",
+                "County": "Waterford",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -7.247763,
+                    52.135163
+                ]
+            },
+            "properties": {
+                "Area Name": "Larry the Goats",
+                "Number of Problems": "18",
+                "Type of Rock": "Limestone",
+                "Aspect": "Coastal",
+                "County": "Waterford",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.330901,
+                    51.734168
+                ]
+            },
+            "properties": {
+                "Area Name": "Rocky Bay",
+                "Number of Problems": "9",
+                "Type of Rock": "Choss",
+                "Aspect": "Coastal",
+                "County": "Cork",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.11976461465,
+                    51.7407703955
+                ]
+            },
+            "properties": {
+                "Area Name": "The Loaf",
+                "Number of Problems": "13",
+                "Type of Rock": "Sandstone",
+                "Aspect": "Low lying",
+                "County": "Cork",
+                "OS Map Coordinates": "W 226 547"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.636774,
+                    52.031259
+                ]
+            },
+            "properties": {
+                "Area Name": "The Gap of Dunloe",
+                "Number of Problems": "56",
+                "Type of Rock": "Sandstone",
+                "Aspect": "Hillside",
+                "County": "Kerry",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.709335,
+                    51.967135
+                ]
+            },
+            "properties": {
+                "Area Name": "Black Valley",
+                "Number of Problems": "28",
+                "Type of Rock": "Sandstone",
+                "Aspect": "Hillside",
+                "County": "Kerry",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.401304,
+                    53.015929
+                ]
+            },
+            "properties": {
+                "Area Name": "Doolin",
+                "Number of Problems": "67",
+                "Type of Rock": "Limestone",
+                "Aspect": "Coastal",
+                "County": "Clare",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.71033685176,
+                    52.948181874
+                ]
+            },
+            "properties": {
+                "Area Name": "Le Toit le Cul de Clare",
+                "Number of Problems": "9",
+                "Type of Rock": "Sandstone",
+                "Aspect": "Low lying",
+                "County": "Clare",
+                "OS Map Coordinates": "R 522 887"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.669328,
+                    53.125537
+                ]
+            },
+            "properties": {
+                "Area Name": "Inishmore",
+                "Number of Problems": "28",
+                "Type of Rock": "Limestone",
+                "Aspect": "Coastal",
+                "County": "Galway",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.19416607383,
+                    53.2830748244
+                ]
+            },
+            "properties": {
+                "Area Name": "Barna Quarry",
+                "Number of Problems": "23",
+                "Type of Rock": "Quarried granite",
+                "Aspect": "Low lying",
+                "County": "Galway",
+                "OS Map Coordinates": "M 203 264"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.65568604222,
+                    53.3916832186
+                ]
+            },
+            "properties": {
+                "Area Name": "Derryrush",
+                "Number of Problems": "22",
+                "Type of Rock": "Granite",
+                "Aspect": "Low lying bog",
+                "County": "Galway",
+                "OS Map Coordinates": "L 898 391"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.956537,
+                    53.379610
+                ]
+            },
+            "properties": {
+                "Area Name": "Roundstone",
+                "Number of Problems": "12",
+                "Type of Rock": "Granite",
+                "Aspect": "Coastal",
+                "County": "Galway",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.90014152785,
+                    53.6144954762
+                ]
+            },
+            "properties": {
+                "Area Name": "Jim's Nook",
+                "Number of Problems": "5",
+                "Type of Rock": "Mudstone",
+                "Aspect": "Beach",
+                "County": "Galway",
+                "OS Map Coordinates": "L 742 643"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.77954849258,
+                    53.5857976782
+                ]
+            },
+            "properties": {
+                "Area Name": "Prehistoric Boulder",
+                "Number of Problems": "4",
+                "Type of Rock": "Sandstone",
+                "Aspect": "Low lying",
+                "County": "Galway",
+                "OS Map Coordinates": "L 821 609"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.71515899308,
+                    53.5993185097
+                ]
+            },
+            "properties": {
+                "Area Name": "Leenane Boulders",
+                "Number of Problems": "6",
+                "Type of Rock": "Sandstone",
+                "Aspect": "Hillside",
+                "County": "Galway",
+                "OS Map Coordinates": "L 864 623"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.75629459675,
+                    53.6077075696
+                ]
+            },
+            "properties": {
+                "Area Name": "Bundorragh Boulder",
+                "Number of Problems": "4",
+                "Type of Rock": "Sandstone",
+                "Aspect": "Hillside",
+                "County": "Mayo",
+                "OS Map Coordinates": "L 837 633"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.76160995776,
+                    53.6264997942
+                ]
+            },
+            "properties": {
+                "Area Name": "Delphi Valley",
+                "Number of Problems": "14",
+                "Type of Rock": "Cobbled sanstone",
+                "Aspect": "Hillside",
+                "County": "Mayo",
+                "OS Map Coordinates": "L 834 654"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.027546,
+                    53.964412
+                ]
+            },
+            "properties": {
+                "Area Name": "Foxford Flake",
+                "Number of Problems": "6",
+                "Type of Rock": "Schist",
+                "Aspect": "Low lying",
+                "County": "Mayo",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -9.071974,
+                    54.027783
+                ]
+            },
+            "properties": {
+                "Area Name": "Rooskey",
+                "Number of Problems": "5",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Mayo",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.843054,
+                    54.152600
+                ]
+            },
+            "properties": {
+                "Area Name": "Lough Easky",
+                "Number of Problems": "12",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Sligo",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.756278,
+                    54.279232
+                ]
+            },
+            "properties": {
+                "Area Name": "Aughris Head",
+                "Number of Problems": "25ish",
+                "Type of Rock": "Limestone",
+                "Aspect": "Beach - tidal",
+                "County": "Sligo",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.023964,
+                    54.307205
+                ]
+            },
+            "properties": {
+                "Area Name": "Thur Mountain",
+                "Number of Problems": "20",
+                "Type of Rock": "Gritstone",
+                "Aspect": "Hillside",
+                "County": "Leitrim",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.591906,
+                    54.608592
+                ]
+            },
+            "properties": {
+                "Area Name": "Muckros Head",
+                "Number of Problems": "few",
+                "Type of Rock": "Sandstone",
+                "Aspect": "Coastal - tidal",
+                "County": "Donegal",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -7.95110002725,
+                    54.7202037304
+                ]
+            },
+            "properties": {
+                "Area Name": "Barnesmore Gap",
+                "Number of Problems": "7",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Donegal",
+                "OS Map Coordinates": "H 031 857"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.783637,
+                    54.667627
+                ]
+            },
+            "properties": {
+                "Area Name": "Malin Beg",
+                "Number of Problems": "10",
+                "Type of Rock": "Schist",
+                "Aspect": "Coastal - tidal",
+                "County": "Donegal",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.01008628361,
+                    54.7875851012
+                ]
+            },
+            "properties": {
+                "Area Name": "Polldoo Glen",
+                "Number of Problems": "27",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Donegal",
+                "OS Map Coordinates": "G 993 932"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.208103,
+                    54.905941
+                ]
+            },
+            "properties": {
+                "Area Name": "Doochary",
+                "Number of Problems": "16",
+                "Type of Rock": "Granite",
+                "Aspect": "Low lying",
+                "County": "Donegal",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.4445608575,
+                    55.0014601227
+                ]
+            },
+            "properties": {
+                "Area Name": "Burtonport\/Cruit",
+                "Number of Problems": "12",
+                "Type of Rock": "Granite",
+                "Aspect": "Coastal - tidal",
+                "County": "Donegal",
+                "OS Map Coordinates": "B 715 171"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.365689,
+                    55.040076
+                ]
+            },
+            "properties": {
+                "Area Name": "Mullaghdoo",
+                "Number of Problems": "24",
+                "Type of Rock": "Granite",
+                "Aspect": "Coastal - tidal",
+                "County": "Donegal",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.34347422607,
+                    55.0583777277
+                ]
+            },
+            "properties": {
+                "Area Name": "Carrickfinn",
+                "Number of Problems": "32",
+                "Type of Rock": "Granite",
+                "Aspect": "Coastal - tidal",
+                "County": "Donegal",
+                "OS Map Coordinates": "B 780 234"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -8.25413516842,
+                    55.0361407032
+                ]
+            },
+            "properties": {
+                "Area Name": "Crolly",
+                "Number of Problems": "29",
+                "Type of Rock": "Granite",
+                "Aspect": "Low lying",
+                "County": "Donegal",
+                "OS Map Coordinates": "B 837 209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -7.747325,
+                    55.251244
+                ]
+            },
+            "properties": {
+                "Area Name": "Fanad Head",
+                "Number of Problems": "24",
+                "Type of Rock": "Granite",
+                "Aspect": "Coastal - tidal",
+                "County": "Donegal",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -7.50844406097,
+                    55.2635682649
+                ]
+            },
+            "properties": {
+                "Area Name": "Dunaff Bay",
+                "Number of Problems": "32",
+                "Type of Rock": "Granite",
+                "Aspect": "Coastal - tidal",
+                "County": "Donegal",
+                "OS Map Coordinates": "C 312 463"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -7.333410,
+                    55.308280
+                ]
+            },
+            "properties": {
+                "Area Name": "Doagh Strand",
+                "Number of Problems": "29",
+                "Type of Rock": "Quartzite",
+                "Aspect": "Coastal - tidal",
+                "County": "Donegal",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -7.09108801478,
+                    55.2863258425
+                ]
+            },
+            "properties": {
+                "Area Name": "Rubonid Point",
+                "Number of Problems": "31",
+                "Type of Rock": "Dolerite",
+                "Aspect": "Coastal",
+                "County": "Donegal",
+                "OS Map Coordinates": "C 577 491"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -7.812809,
+                    54.201550
+                ]
+            },
+            "properties": {
+                "Area Name": "Cuilcagh",
+                "Number of Problems": "loads",
+                "Type of Rock": "Gritstone",
+                "Aspect": "Hillside",
+                "County": "Fermanagh",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -7.850864,
+                    54.344117
+                ]
+            },
+            "properties": {
+                "Area Name": "Brimstones",
+                "Number of Problems": "21",
+                "Type of Rock": "Gritstone",
+                "Aspect": "Hillside",
+                "County": "Fermanagh",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -5.981625,
+                    54.152867
+                ]
+            },
+            "properties": {
+                "Area Name": "Slieve Binnian",
+                "Number of Problems": "47",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Down",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -5.90610502081,
+                    54.1675003816
+                ]
+            },
+            "properties": {
+                "Area Name": "Chimney Rock",
+                "Number of Problems": "10",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Down",
+                "OS Map Coordinates": "J 367 262"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.147244,
+                    54.134714
+                ]
+            },
+            "properties": {
+                "Area Name": "Pierce's Castle",
+                "Number of Problems": "14",
+                "Type of Rock": "Granite",
+                "Aspect": "Hillside",
+                "County": "Down",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -5.889429,
+                    54.209688
+                ]
+            },
+            "properties": {
+                "Area Name": "The Rockpool",
+                "Number of Problems": "dozen",
+                "Type of Rock": "Shale",
+                "Aspect": "Coastal",
+                "County": "Down",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -5.546313,
+                    54.498608
+                ]
+            },
+            "properties": {
+                "Area Name": "Greyabbey Boulder",
+                "Number of Problems": "15",
+                "Type of Rock": "Dolerite",
+                "Aspect": "Coastal",
+                "County": "Down",
+                "OS Map Coordinates": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        -6.153421,
+                    55.220918
+                ]
+            },
+            "properties": {
+                "Area Name": "Fair Head",
+                "Number of Problems": "60",
+                "Type of Rock": "Dolerite",
+                "Aspect": "Coastal",
+                "County": "Antrim",
+                "OS Map Coordinates": ""
+            }
+        }
+    ]
+}
