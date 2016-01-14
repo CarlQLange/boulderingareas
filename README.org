@@ -1,0 +1,14 @@
+* Bouldering Areas in Ireland and Northern Ireland
+A list of bouldering areas in Ireland and Northern Ireland, in CSV and GeoJSON.
+
+[[https://github.com/CarlQLange/boulderingareas/tree/master/boulderingareas.geojson][View the map by clicking here.]]
+
+* Acknowledgements
+** David Flanagan
+Many thanks to [[http://threerockbooks.com/index.php/about/][David Flanagan]] for his wonderful guidebook, [[http://threerockbooks.com/index.php/bouldering-in-ireland/][Bouldering in Ireland]].
+The list is taken mainly from this guidebook, and some extra metadata has been added, including GPS coordinates for all areas.
+This wouldn't exist without his hard work.
+** Michaël Bekaert / Batlab
+Converting OSI Grid References to GPS was a snap thanks to the API at http://batlab.ucd.ie/gridref/
+** Your Name Here?
+If you have an area to add or a correction to make, add an [[https://github.com/CarlQLange/boulderingareas/issues][Issue]] or [[https://github.com/CarlQLange/boulderingareas/pulls][Pull Request]] and I'll add you to this list :)
