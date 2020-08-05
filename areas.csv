@@ -4,7 +4,7 @@ White Bog,19,Gabbro,Hillside,Louth,J 160 129,54.0531641213,-6.22797497607
 Portrane,66,Limestone,Coastal - tidal,Dublin,O 261 504,53.4895819852,-6.09937274729
 Ayton's Cave,15,Limestone,Coastal - tidal,Dublin,O 275 364,53.3635264884,-6.08395556942
 Bullock Harbour,40,Granite,Coastal - tidal,Dublin,O 263 277,53.2856870648,-6.10543537038
-Dalkey Quarry,11,Granite,Sheltered quarry,Dublin,,,
+Dalkey Quarry,11,Granite,Sheltered quarry,Dublin,,53.271267,-6.107390
 Three Rock,15,Granite,Mountain top,Dublin,O 176 231,53.2463752642,-6.23751605131
 The Scalp,31,Granite,Wooded ,Dublin,O 215 201,53.2185554382,-6.18026679398
 Knocknagun,5,Granite,Hillside,Wicklow,O 164 183,53.2035304892,-6.25723481832
@@ -12,7 +12,7 @@ Lough Bray,14,Granite,Hillside,Wicklow,O 138 155,53.1789453967,-6.29712301467
 Stonecutter's Glen,23,Granite,Hillside,Wicklow,,,
 Cloghoge,27,Granite,Hillside,Wicklow,O 155 091,53.1210992889,-6.27401541168
 Lough Dan,34,Granite,Hillside,Wicklow,O 141 045,53.0800858977,-6.29654993218
-Lough Tay,few,Granite,Hillside,Wicklow,,,
+Lough Tay,few,Granite,Hillside,Wicklow,,53.107928,-6.271816
 Gullyblock,5,Granite,Forest,Wicklow,O 101 071,53.1042775778,-6.35532302953
 Carrigshouk,29,Granite,Hillside,Wicklow,O 101 052,53.0872123067,-6.35597372525
 Glenmacnass,73,Granite,Hillside,Wicklow,O 104 035,53.0718814516,-6.35208144304
@@ -29,7 +29,7 @@ Rocky Bay,9,Choss,Coastal,Cork,,,
 The Loaf,13,Sandstone,Low lying,Cork,W 226 547,51.7407703955,-9.11976461465
 The Gap of Dunloe,56,Sandstone,Hillside,Kerry,,,
 Black Valley,28,Sandstone,Hillside,Kerry,,,
-Doolin,67,Limestone,Coastal,Clare,,,
+Doolin,67,Limestone,Coastal,Clare,,53.039510,-9.384549
 Le Toit le Cul de Clare,9,Sandstone,Low lying,Clare,R 522 887,52.948181874,-8.71033685176
 Inishmore,28,Limestone,Coastal,Galway,,,
 Barna Quarry,23,Quarried granite,Low lying,Galway,M 203 264,53.2830748244,-9.19416607383
@@ -45,7 +45,7 @@ Rooskey,5,Granite,Hillside,Mayo,,,
 Lough Easky,12,Granite,Hillside,Sligo,,,
 Aughris Head,25ish,Limestone,Beach - tidal,Sligo,,,
 Thur Mountain,20,Gritstone,Hillside,Leitrim,,,
-Muckros Head,few,Sandstone,Coastal - tidal,Donegal,,,
+Muckros Head,few,Sandstone,Coastal - tidal,Donegal,,54.608741,-8.592761
 Barnesmore Gap,7,Granite,Hillside,Donegal,H 031 857,54.7202037304,-7.95110002725
 Malin Beg,10,Schist,Coastal - tidal,Donegal,,,
 Polldoo Glen,27,Granite,Hillside,Donegal,G 993 932,54.7875851012,-8.01008628361
@@ -65,4 +65,4 @@ Chimney Rock,10,Granite,Hillside,Down,J 367 262,54.1675003816,-5.90610502081
 Pierce's Castle,14,Granite,Hillside,Down,,,
 The Rockpool,dozen,Shale,Coastal,Down,,,
 Greyabbey Boulder,15,Dolerite,Coastal,Down,,,
-Fair Head,60,Dolerite,Coastal,Antrim,,,
+Fair Head,60,Dolerite,Coastal,Antrim,,55.223618,-6.135160
